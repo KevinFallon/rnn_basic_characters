@@ -1,6 +1,6 @@
 import numpy as np
 from dataclasses import dataclass
-import softmax
+import utils
 
 
 '''
